@@ -5,3 +5,5 @@ In the hello_ncs_py app,
 cd hello_ncs_py
 makerun
 Check the message to ensure if stick was recognized by your system.
+
+The project aims to automate quality testing procedures for hot-rolled steel strips over 6 surface defect categories, i.e., rolled-in scale, patches, crazing, pitted surface, inclusion, and scratches.
